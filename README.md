@@ -3,10 +3,10 @@ Halaman awal
 ![Halaman Awal](halaman1.png)
 
 Halaman Masuk akun google
-![Halaman Awal](halaman2png)
+![Halaman Awal](halaman2.png)
 
 Halaman Home
-![Halaman Awal](halmaan31.png)
+![Halaman Awal](halmaan3.png)
 
 Halaman Profile
 ![Halaman Awal](halaman4.png)
