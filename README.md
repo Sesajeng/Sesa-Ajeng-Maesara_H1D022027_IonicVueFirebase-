@@ -1,3 +1,15 @@
+# Secrinshoot
+Halaman awal
+![Halaman Awal](halaman1.png)
+
+Halaman Masuk akun google
+![Halaman Awal](halaman2png)
+
+Halaman Home
+![Halaman Awal](halmaan31.png)
+
+Halaman Profile
+![Halaman Awal](halaman4.png)
 
 # Penjelasan
 1. Konfigurasi Firebase
